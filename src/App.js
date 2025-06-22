@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import profilePic from './assets/profile.jpg';
+import profilePic from './assets/profile.png';
 import { FaGithub, FaEnvelope } from 'react-icons/fa';
 
 function App() {
